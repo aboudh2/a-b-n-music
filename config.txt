@@ -1,0 +1,6 @@
+owner=525779540992196619
+prefix=!
+game=Break | !mafia
+stayinchannel=true
+songinstatus=false
+token=NTU5MDk3MTMwMTk1NzQ2ODIx.D3gbaw.eA5oMKcxFUUr5R59f0l7-ZU7a_E
